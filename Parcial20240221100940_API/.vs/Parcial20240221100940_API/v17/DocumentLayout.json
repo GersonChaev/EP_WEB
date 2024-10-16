@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78668EC5-ADC9-4579-B284-8F92309EFB89}|Parcial20240221100940_DOMAIN\\Parcial20240221100940_DOMAIN.csproj|c:\\users\\laboratorioesan\\desktop\\ep_web\\visual\\parcial20240221100940_api\\parcial20240221100940_domain\\data\\parcial20240221100940context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78668EC5-ADC9-4579-B284-8F92309EFB89}|Parcial20240221100940_DOMAIN\\Parcial20240221100940_DOMAIN.csproj|solutionrelative:parcial20240221100940_domain\\data\\parcial20240221100940context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032B61A2-6B0D-4500-96FD-7A8E28531C2F}|Parcial20240221100940_API\\Parcial20240221100940_API.csproj|c:\\users\\laboratorioesan\\desktop\\ep_web\\visual\\parcial20240221100940_api\\parcial20240221100940_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{032B61A2-6B0D-4500-96FD-7A8E28531C2F}|Parcial20240221100940_API\\Parcial20240221100940_API.csproj|solutionrelative:parcial20240221100940_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032B61A2-6B0D-4500-96FD-7A8E28531C2F}|Parcial20240221100940_API\\Parcial20240221100940_API.csproj|c:\\users\\laboratorioesan\\desktop\\ep_web\\visual\\parcial20240221100940_api\\parcial20240221100940_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032B61A2-6B0D-4500-96FD-7A8E28531C2F}|Parcial20240221100940_API\\Parcial20240221100940_API.csproj|solutionrelative:parcial20240221100940_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78668EC5-ADC9-4579-B284-8F92309EFB89}|Parcial20240221100940_DOMAIN\\Parcial20240221100940_DOMAIN.csproj|c:\\users\\laboratorioesan\\desktop\\ep_web\\visual\\parcial20240221100940_api\\parcial20240221100940_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78668EC5-ADC9-4579-B284-8F92309EFB89}|Parcial20240221100940_DOMAIN\\Parcial20240221100940_DOMAIN.csproj|solutionrelative:parcial20240221100940_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Parcial20240221100940_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\appsettings.json",
+              "RelativeToolTip": "Parcial20240221100940_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T20:59:45.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial20240221100940_API\\Program.cs",
+              "ToolTip": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\Program.cs",
+              "RelativeToolTip": "Parcial20240221100940_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:51:13.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parcial20240221100940Context.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_DOMAIN\\Data\\Parcial20240221100940Context.cs",
+              "RelativeDocumentMoniker": "Parcial20240221100940_DOMAIN\\Data\\Parcial20240221100940Context.cs",
+              "ToolTip": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_DOMAIN\\Data\\Parcial20240221100940Context.cs",
+              "RelativeToolTip": "Parcial20240221100940_DOMAIN\\Data\\Parcial20240221100940Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:49:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_DOMAIN\\Class1.cs",
+              "RelativeDocumentMoniker": "Parcial20240221100940_DOMAIN\\Class1.cs",
+              "ToolTip": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_DOMAIN\\Class1.cs",
+              "RelativeToolTip": "Parcial20240221100940_DOMAIN\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:47:38.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\bin\Debug\net8.0\Parcial20240221100940_DOMAIN.deps.json
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\bin\Debug\net8.0\Parcial20240221100940_DOMAIN.runtimeconfig.json
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\bin\Debug\net8.0\Parcial20240221100940_DOMAIN.dll
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\bin\Debug\net8.0\Parcial20240221100940_DOMAIN.pdb
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\Parcial20240221100940_DOMAIN.csproj.AssemblyReference.cache
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\Parcial20240221100940_DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\Parcial20240221100940_DOMAIN.AssemblyInfoInputs.cache
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\Parcial20240221100940_DOMAIN.AssemblyInfo.cs
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\Parcial20240221100940_DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\Parcial20240221100940_DOMAIN.dll
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\refint\Parcial20240221100940_DOMAIN.dll
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\Parcial20240221100940_DOMAIN.pdb
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\Parcial20240221100940_DOMAIN.genruntimeconfig.cache
+C:\Users\laboratorioesan\Desktop\EP_Web\Visual\Parcial20240221100940_API\Parcial20240221100940_DOMAIN\obj\Debug\net8.0\ref\Parcial20240221100940_DOMAIN.dll
