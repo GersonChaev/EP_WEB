@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{032B61A2-6B0D-4500-96FD-7A8E28531C2F}|Parcial20240221100940_API\\Parcial20240221100940_API.csproj|c:\\users\\laboratorioesan\\desktop\\ep_web\\visual\\parcial20240221100940_api\\parcial20240221100940_api\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{032B61A2-6B0D-4500-96FD-7A8E28531C2F}|Parcial20240221100940_API\\Parcial20240221100940_API.csproj|solutionrelative:parcial20240221100940_api\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{032B61A2-6B0D-4500-96FD-7A8E28531C2F}|Parcial20240221100940_API\\Parcial20240221100940_API.csproj|c:\\users\\laboratorioesan\\desktop\\ep_web\\visual\\parcial20240221100940_api\\parcial20240221100940_api\\controllers\\competencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032B61A2-6B0D-4500-96FD-7A8E28531C2F}|Parcial20240221100940_API\\Parcial20240221100940_API.csproj|solutionrelative:parcial20240221100940_api\\controllers\\competencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78668EC5-ADC9-4579-B284-8F92309EFB89}|Parcial20240221100940_DOMAIN\\Parcial20240221100940_DOMAIN.csproj|c:\\users\\laboratorioesan\\desktop\\ep_web\\visual\\parcial20240221100940_api\\parcial20240221100940_domain\\data\\parcial20240221100940context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JobController.cs",
-              "DocumentMoniker": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\Controllers\\JobController.cs",
-              "RelativeDocumentMoniker": "Parcial20240221100940_API\\Controllers\\JobController.cs",
-              "ToolTip": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\Controllers\\JobController.cs",
-              "RelativeToolTip": "Parcial20240221100940_API\\Controllers\\JobController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAIwCAAAAAJAAAAAAAAAA==",
+              "Title": "CompetencyController.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\Controllers\\CompetencyController.cs",
+              "RelativeDocumentMoniker": "Parcial20240221100940_API\\Controllers\\CompetencyController.cs",
+              "ToolTip": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\Controllers\\CompetencyController.cs",
+              "RelativeToolTip": "Parcial20240221100940_API\\Controllers\\CompetencyController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:06:59.37Z",
+              "WhenOpened": "2024-10-16T21:23:21.673Z",
               "EditorCaption": ""
             },
             {
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Parcial20240221100940_API\\appsettings.json",
               "ToolTip": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\appsettings.json",
               "RelativeToolTip": "Parcial20240221100940_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-16T20:59:45.475Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "Parcial20240221100940_API\\Program.cs",
               "ToolTip": "C:\\Users\\laboratorioesan\\Desktop\\EP_Web\\Visual\\Parcial20240221100940_API\\Parcial20240221100940_API\\Program.cs",
               "RelativeToolTip": "Parcial20240221100940_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T20:51:13.251Z",
               "EditorCaption": ""
@@ -94,8 +94,7 @@
               "RelativeToolTip": "Parcial20240221100940_DOMAIN\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:47:38.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T20:47:38.326Z"
             }
           ]
         }

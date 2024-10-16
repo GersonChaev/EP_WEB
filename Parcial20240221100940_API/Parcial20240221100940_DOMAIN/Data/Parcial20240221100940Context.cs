@@ -15,6 +15,8 @@ public partial class Parcial20240221100940Context : DbContext
     {
     }
 
+    public virtual DbSet<Competency> Competency { get; set; }
+
     public virtual DbSet<JobOffer> JobOffer { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -23,6 +25,24 @@ public partial class Parcial20240221100940Context : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Competency>(entity =>
+        {
+            entity.HasKey(e => e.Id2).HasName("pk_id2");
+
+            entity.Property(e => e.Id2)
+                .ValueGeneratedNever()
+                .HasColumnName("id2");
+            entity.Property(e => e.Description)
+                .HasMaxLength(40)
+                .IsUnicode(false);
+            entity.Property(e => e.Level)
+                .HasMaxLength(40)
+                .IsUnicode(false);
+            entity.Property(e => e.Name)
+                .HasMaxLength(40)
+                .IsUnicode(false);
+        });
+
         modelBuilder.Entity<JobOffer>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("pk_id");

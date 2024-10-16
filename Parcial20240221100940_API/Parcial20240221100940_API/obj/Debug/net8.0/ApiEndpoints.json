@@ -1,5 +1,88 @@
 [
   {
+    "ContainingType": "Parcial20240221100940_API.Controllers.CompetencyController",
+    "Method": "PostCompetency",
+    "RelativePath": "api/Competency",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "competency",
+        "Type": "Parcial20240221100940_DOMAIN.Data.Competency",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Parcial20240221100940_DOMAIN.Data.Competency",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Parcial20240221100940_API.Controllers.CompetencyController",
+    "Method": "GetCompetency",
+    "RelativePath": "api/Competency",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Parcial20240221100940_DOMAIN.Data.Competency, Parcial20240221100940_DOMAIN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Parcial20240221100940_API.Controllers.CompetencyController",
+    "Method": "PutCompetency",
+    "RelativePath": "api/Competency/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "competency",
+        "Type": "Parcial20240221100940_DOMAIN.Data.Competency",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Parcial20240221100940_API.Controllers.CompetencyController",
+    "Method": "DeleteCompetency",
+    "RelativePath": "api/Competency/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Parcial20240221100940_API.Controllers.JobController",
     "Method": "GetJobOffer",
     "RelativePath": "api/Job",

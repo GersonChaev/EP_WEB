@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parcial20240221100940_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8e257010c48d1ac935c1f52fe900c928934c8db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parcial20240221100940_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parcial20240221100940_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
